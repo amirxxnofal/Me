@@ -2,7 +2,6 @@
 <h3 align="center">Backend Developer | Node.js</h3>
 
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"/>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amirxxnofal" alt="amirxxnofal" /></a> </p>
 
 - 🔭 I’m currently working on [Sara7a-App](https://github.com/amirxxnofal/Sara7a-App)
 
