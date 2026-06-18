@@ -135,8 +135,8 @@ ExpressJS | Mongoose** - 📫 How to reach me **amirxnofal.work@gmail.com**
 
 <p>
     <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=amirxxnofal&show_icons=true&locale=en&layout=compact"
+        align="center"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=amirxxnofal&"
         alt="amirxxnofal"
     />
 </p>
@@ -149,10 +149,11 @@ ExpressJS | Mongoose** - 📫 How to reach me **amirxnofal.work@gmail.com**
     />
 </p>
 
+
 <p>
     <img
-        align="center"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=amirxxnofal&"
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=amirxxnofal&show_icons=true&locale=en&layout=compact"
         alt="amirxxnofal"
     />
 </p>
