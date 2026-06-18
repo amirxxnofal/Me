@@ -10,7 +10,6 @@
 learning **Backend NodeJS With Route Academy** - 💬 Ask me about **NodeJS |
 ExpressJS | Mongoose** - 📫 How to reach me **amirxnofal.work@gmail.com**
 <h3 align="left">Connect with me:</h3>
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"/>
 <p align="left">
     <a href="https://linkedin.com/in/amirxnofal404" target="blank"
         ><img
